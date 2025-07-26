@@ -47,6 +47,7 @@ Try to guess a secret number with smart hints!
 python projects/mega_project01_jarvis.py
 🏗️ Repository Structure
 Python/
+Python/
 ├── chapter 1/
 │   ├── first.py
 │   └── module.py
@@ -114,8 +115,11 @@ Python/
 
 NOTE !
 
+Here’s the polished version of your `README.md` with clear disclaimer notes and a "Feedback Welcome" section:
 
+```markdown
 # 🐍 Python Learning Journey + AI Assistant
+
 
 
 ## 📢 Important Notes
@@ -133,16 +137,44 @@ NOTE !
 ✅ *Fully Functional*  
 ✨ Features: Voice commands, reminders, web search, calculations  
 
-📬 Feedback & Corrections
-Notice any issues?
+```bash
 
-Comment on the relevant file
 
-Or create an issue
+### 2. 🐍 Snake-Water-Gun Game  
+✅ *Complete*  
+🎯 Classic hand game vs computer  
 
-I’ll verify and fix it ASAP!
+### 3. 🔢 Number Guessing Game  
+✅ *Complete*  
+📊 Tracks your attempts  
 
-Your input helps make this repository better for everyone!
+### 4. 🤖 Auto-Chat (Experimental)  
+⚠️ *Under Development*  
+🚧 Not recommended for use yet  
 
-🔹 Last Updated: July 2025
-🔹 All completed projects are tested and functional
+---
+
+## 🛠️ Setup  
+```bash
+git clone https://github.com/ZaryabAhmad01/python.git
+pip install -r requirements.txt
+```
+
+---
+
+## 📬 Feedback & Corrections  
+**Notice any issues?**  
+1. Comment on the relevant file  
+2. Or [create an issue](https://github.com/ZaryabAhmad01/python/issues/new)  
+3. I’ll verify and fix it ASAP!  
+
+*Your input helps make this repository better for everyone!*  
+
+---
+
+🔹 *Last Updated: July 2025*  
+🔹 *All completed projects are tested and functional*
+```
+
+
+## 📢 Important Notes
