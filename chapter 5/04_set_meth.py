@@ -1,0 +1,10 @@
+s ={1,2,3,9,8,7,5, "hello"}
+a =type(s)
+print(a)
+s.add(44)
+print(s)
+print(len(s))
+s.remove(1)
+print(s)
+#s.clear()
+#print(s)

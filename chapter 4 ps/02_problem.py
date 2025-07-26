@@ -1,0 +1,13 @@
+Marks= []
+M2=int(input("enter marks here:"))
+Marks.append(M2)
+M3=int(input("enter marks here:"))
+Marks.append(M3)
+M4=int(input("enter marks here:"))
+Marks.append(M4)
+M5=int(input("enter marks here:"))
+Marks.append(M5)
+M6=int(input("enter marks here:"))
+Marks.append(M6)
+Marks.sort()
+print(Marks)

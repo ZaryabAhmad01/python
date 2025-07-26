@@ -1,0 +1,6 @@
+with open("file.txt","w") as f:
+    f.write("")
+
+
+
+chal mera put chall mer put

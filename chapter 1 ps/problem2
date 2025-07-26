@@ -1,0 +1,4 @@
+import pyttsx3
+engine = pyttsx3.init()
+engine.say(" kea hall bai aj kal ma akela ho yar koi b mery say dosti nhi laga ta yar bs mera allah hi hai mery sath bs")
+engine.runAndWait()
